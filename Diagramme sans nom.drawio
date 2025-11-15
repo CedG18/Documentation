@@ -8,7 +8,7 @@
           <mxGeometry x="988" y="306" width="514" height="277" as="geometry" />
         </mxCell>
         <mxCell id="1257a543d1cacc4b-43" value="Saint-Doulchard" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;fontSize=14;strokeColor=none;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="252" y="307" width="660" height="276" as="geometry" />
+          <mxGeometry x="252" y="307" width="660" height="793" as="geometry" />
         </mxCell>
         <mxCell id="1257a543d1cacc4b-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;startSize=10;endSize=10;jettySize=auto;orthogonalLoop=1;fontSize=14;endArrow=none;endFill=0;strokeColor=#808080;" parent="1" source="1257a543d1cacc4b-1" target="1257a543d1cacc4b-5" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -61,7 +61,7 @@
         <mxCell id="1257a543d1cacc4b-3" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.veeam.2d.backup_repository;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="271.9999999999999" y="489" width="52" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="1257a543d1cacc4b-5" value="Source ESX host" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.veeam.2d.vmware_host;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="1257a543d1cacc4b-5" value="&lt;div&gt;Cluster&lt;/div&gt;&lt;div&gt;Dev&lt;/div&gt;&lt;div&gt;Interne&lt;/div&gt;&lt;div&gt;DMZ&lt;/div&gt;" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.veeam.2d.vmware_host;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="542" y="417" width="124" height="120" as="geometry" />
         </mxCell>
         <mxCell id="1257a543d1cacc4b-14" style="rounded=0;html=1;startSize=10;endSize=10;jettySize=auto;orthogonalLoop=1;fontSize=14;endArrow=none;endFill=0;strokeColor=#808080;" parent="1" source="1257a543d1cacc4b-7" target="1257a543d1cacc4b-9" edge="1">
@@ -122,6 +122,12 @@
         </mxCell>
         <mxCell id="IFHUUmTY6FJpOS6YGlnt-1" value="Source ESX host" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.veeam.2d.vmware_host;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1240" y="419" width="124" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="IFHUUmTY6FJpOS6YGlnt-4" value="Cluster Hébergement" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.veeam.2d.vmware_host;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="542" y="740" width="124" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="IFHUUmTY6FJpOS6YGlnt-5" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.veeam.2d.backup_repository;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="272" y="670" width="52" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
