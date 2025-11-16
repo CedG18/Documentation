@@ -58,7 +58,7 @@
           <mxGeometry x="1053.0000000000002" y="505" width="46" height="46" as="geometry" />
         </mxCell>
         <mxCell id="1257a543d1cacc4b-9" value="WAN" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;shape=mxgraph.veeam.2d.cloud;fontSize=14;align=center;" parent="1" vertex="1">
-          <mxGeometry x="1174" y="870" width="66" height="46" as="geometry" />
+          <mxGeometry x="1198" y="956" width="66" height="46" as="geometry" />
         </mxCell>
         <mxCell id="1257a543d1cacc4b-49" value="" style="line;strokeWidth=3;html=1;fillColor=none;gradientColor=none;fontSize=14;strokeColor=#808080;" parent="1" vertex="1">
           <mxGeometry x="282" y="342" width="1200" height="10" as="geometry" />
