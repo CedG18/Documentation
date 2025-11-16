@@ -165,6 +165,26 @@
         <mxCell id="IFHUUmTY6FJpOS6YGlnt-53" value="PureParis" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;align=center;outlineConnect=0;shape=mxgraph.veeam.snapshot;" parent="1" vertex="1">
           <mxGeometry x="1350.8" y="226.2" width="55.6" height="48.8" as="geometry" />
         </mxCell>
+        <mxCell id="56jVZDmRqcjN0ndenDBN-2" value="Robot Tandberg" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.tape_library;" vertex="1" parent="1">
+          <mxGeometry x="330" y="436.4" width="70" height="67.2" as="geometry" />
+        </mxCell>
+        <mxCell id="56jVZDmRqcjN0ndenDBN-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;startSize=10;endSize=10;jettySize=auto;orthogonalLoop=1;fontSize=14;endArrow=none;endFill=0;strokeColor=#808080;exitX=0.743;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="1257a543d1cacc4b-1" target="56jVZDmRqcjN0ndenDBN-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="881" y="280" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint x="710" y="599" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="56jVZDmRqcjN0ndenDBN-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;startSize=10;endSize=10;jettySize=auto;orthogonalLoop=1;fontSize=14;endArrow=none;endFill=0;strokeColor=#808080;entryX=0.527;entryY=0.847;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="IFHUUmTY6FJpOS6YGlnt-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="725" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="410" y="410" />
+              <mxPoint x="410" y="805" />
+            </Array>
+            <mxPoint x="365" y="410" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
